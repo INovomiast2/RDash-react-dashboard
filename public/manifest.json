@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "RDashboard",
+  "name": "RDashboard - A React Dashboard",
   "icons": [
     {
       "src": "favicon.ico",
